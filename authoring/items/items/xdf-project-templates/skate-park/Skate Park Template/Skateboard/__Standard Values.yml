@@ -1,0 +1,40 @@
+﻿---
+ID: "fcc2e8fb-9dee-44f3-9882-cf8d1522de59"
+Parent: "706abd79-de91-4faf-b8bf-a7e73d2968f1"
+Template: "706abd79-de91-4faf-b8bf-a7e73d2968f1"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Template/Skateboard/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T040326Z
+    - ID: "32a2c8fc-925d-4d56-b702-91899e37dffe"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The $name is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the $name is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your $name today!
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "78b9f934-57f1-4110-bbe8-5da2f85f974e"
+      Hint: Material
+      Value: Bamboo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df5a0b1a-66a3-45c9-9843-158a503717df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T045625Z

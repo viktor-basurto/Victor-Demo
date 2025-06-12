@@ -1,0 +1,51 @@
+﻿---
+ID: "a2994785-a839-4935-a89f-bdc5af938e94"
+Parent: "5ee765c6-3723-4742-9d73-2f1bc853831f"
+Template: "5ee765c6-3723-4742-9d73-2f1bc853831f"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Template/_Base Products/__Standard Values"
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{1469966B-CF0B-4E35-A74D-5DB5FA2475D5}"
+- ID: "da117c1d-97be-4170-822c-315409e2953e"
+  Hint: SKU
+  Value: $id
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fe5dac84-81c3-4dfc-8ffe-bf7568e44813"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "870ca73d-e0a6-44bf-bd58-45fe26386ac5"
+  - ID: "682c4dee-fba3-4cc1-b640-b17f5f73bb08"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T042931Z
+    - ID: "4a604ad4-5da4-427a-9692-532682754249"
+      Hint: Highlights
+      Value: Whether you&rsquo;re a beginner or a pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68d56fac-c8a7-4c18-804e-08663aab925c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T231444Z

@@ -1,0 +1,71 @@
+﻿---
+ID: "6b9102cd-4be2-459a-b2fa-3a09c21d41ab"
+Parent: "3b68c781-2554-412e-a59a-f3f51a43b83d"
+Template: "706abd79-de91-4faf-b8bf-a7e73d2968f1"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/Ordercloud9"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CFB48C5D-2CC2-4FBE-8F79-9B4F35FA48C6}" />
+- ID: "da117c1d-97be-4170-822c-315409e2953e"
+  Hint: SKU
+  Value: "{6B9102CD-4BE2-459A-B2FA-3A09C21D41AB}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1f3c4ff9-0687-4de7-b74d-1223c8a70a3b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T062214Z
+    - ID: "32a2c8fc-925d-4d56-b702-91899e37dffe"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Ordercloud9 is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Ordercloud9 is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Ordercloud9 today!
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "825b0aa5-849e-4bf8-be63-cfef7d59ec2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T062214Z
+    - ID: "f20c5319-8c44-4ea1-a8a9-b24e29ea9db9"
+      Hint: Title
+      Value: Ordercloud9
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T051330Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "777644bd-f5de-4aaa-9922-fa25c16b450a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T051330Z

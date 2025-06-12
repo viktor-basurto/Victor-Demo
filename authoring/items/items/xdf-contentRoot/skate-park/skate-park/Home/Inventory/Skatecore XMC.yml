@@ -1,0 +1,71 @@
+﻿---
+ID: "9e30311c-1af9-4d7f-aed8-873d198b26af"
+Parent: "3b68c781-2554-412e-a59a-f3f51a43b83d"
+Template: "706abd79-de91-4faf-b8bf-a7e73d2968f1"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/Skatecore XMC"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6EA57DD4-9E7C-4574-9322-8EB38FDB5653}" />
+- ID: "da117c1d-97be-4170-822c-315409e2953e"
+  Hint: SKU
+  Value: "{9E30311C-1AF9-4D7F-AED8-873D198B26AF}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d8b86b23-ff1a-4017-9e14-d00efe2a537c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T062231Z
+    - ID: "32a2c8fc-925d-4d56-b702-91899e37dffe"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Skatecore XMC is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Skatecore XMC is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Skatecore XMC today!
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d95576e9-54b7-4b3f-8301-e3f1580a2326"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T062231Z
+    - ID: "f20c5319-8c44-4ea1-a8a9-b24e29ea9db9"
+      Hint: Title
+      Value: Skatecore XMC
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T051344Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7e9ce0e-08c8-46df-95e1-60d4611e4606"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T051344Z

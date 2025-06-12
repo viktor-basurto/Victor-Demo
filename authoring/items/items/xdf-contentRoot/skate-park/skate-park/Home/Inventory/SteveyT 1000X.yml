@@ -1,0 +1,71 @@
+﻿---
+ID: "53b0fe5b-2f42-4857-9cd8-36b97303569b"
+Parent: "3b68c781-2554-412e-a59a-f3f51a43b83d"
+Template: "706abd79-de91-4faf-b8bf-a7e73d2968f1"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/SteveyT 1000X"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A8829FA5-A0A6-4EDD-9CC8-FEADD76B74FB}" />
+- ID: "da117c1d-97be-4170-822c-315409e2953e"
+  Hint: SKU
+  Value: "{53B0FE5B-2F42-4857-9CD8-36B97303569B}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fe09a144-9fb8-4d63-9172-b8a26ebf7a1f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T062251Z
+    - ID: "32a2c8fc-925d-4d56-b702-91899e37dffe"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The SteveyT 1000X is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the SteveyT 1000X is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your SteveyT 1000X today!
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SteveyT 1000X
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0960dd5-4c02-49a5-9467-8dfe81e6afda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T062251Z
+    - ID: "f20c5319-8c44-4ea1-a8a9-b24e29ea9db9"
+      Hint: Title
+      Value: SteveyT 1000X
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T051358Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40917698-e5f7-4f1d-83d1-6f7190141c4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T051358Z

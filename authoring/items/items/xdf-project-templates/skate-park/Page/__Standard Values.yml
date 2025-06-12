@@ -1,0 +1,43 @@
+﻿---
+ID: "2721131c-170a-40c1-b0a4-ac9adad63740"
+Parent: "d744201e-4e47-417a-852d-958b51ddc81e"
+Template: "d744201e-4e47-417a-852d-958b51ddc81e"
+Path: "/sitecore/templates/Project/skate-park/Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {D744201E-4E47-417A-852D-958B51DDC81E}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "044699e7-8cff-4a24-94e2-9e29dd9a1364"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T011557Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91358a06-b9dc-4cf2-a19a-4d716a5e5fec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T011605Z
+    - ID: "f20c5319-8c44-4ea1-a8a9-b24e29ea9db9"
+      Hint: Title
+      Value: $name
