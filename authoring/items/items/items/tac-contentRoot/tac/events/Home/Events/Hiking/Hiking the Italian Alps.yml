@@ -1,0 +1,61 @@
+﻿---
+ID: "a3abf40d-de5d-4eff-98a8-261f4cc69880"
+Parent: "25327d55-9ee5-4bc1-a34f-08660f4d649a"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/tac/events/Home/Events/Hiking/Hiking the Italian Alps
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{13FE12E6-F23A-418F-A204-3D96835EBE6D}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{A86534D8-D7C6-4661-8335-78E8F22CD40C}"
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{2FF2CED6-6C3A-44ED-9D8F-0A0180228CA3}" alt="" height="400" width="600" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014809Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 3
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking the Italian Alps
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: "{14285EFC-9341-4429-BC25-DC2099A8D4C2}"
+    - ID: "7da72924-1813-4335-a6f8-6cdde1fa6560"
+      Hint: RelatedEvents
+      Value: |
+        {A3E403CA-9E12-47CC-82B1-5EE3FFBED903}
+        {5E4C6990-6F45-4D42-B4F1-19466E2FEF98}
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Hiking the Italian Alps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2505190e-77e1-41da-b184-dd3c0d9f4d11"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Hike one of the most beautiful mountain landscapes in the world.
+    - ID: "b1956471-e248-49ff-b9c8-7f77f678de56"
+      Hint: Content
+      Value: "Hike one of the most beautiful mountain landscapes in the world. Italy&rsquo;s dramatic rocky rooftop, the Dolomites offer spectacular views and lovely surroundings, especially on this spring tour. You will enjoy the wild Alpine meadows, snow-tipped peaks and cobblestone mountain villages. We will take scenic paths from Cortina d&rsquo; Ampezzo to Alta Badia and learn about the fascinating history of the region along the way.<br />"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T035336Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20250423T000000Z

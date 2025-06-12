@@ -1,0 +1,58 @@
+﻿---
+ID: "5e4c6990-6f45-4d42-b4f1-19466e2fef98"
+Parent: "9223ecf0-abd8-4bf2-8501-99205ad6a3f8"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/tac/events/Home/Events/Climbing/Rockies Adventure
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FB2441CE-7BFF-41CF-8647-4BC916FD4B77}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{FD773ABD-C271-4B18-A2E1-DC7F2F05E218}"
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{FED39ABE-08EF-488D-A058-16D8A6E2BE6D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014412Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 4
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rockies Adventure
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: |
+        {F1CB0C0B-C962-42C3-B80F-F95E51265C1D}
+        {1173E469-EAD7-4543-9AC8-09BC2D0F335E}
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Rockies Adventure
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7608792-eb26-4fa8-9725-dc8ac2cee0ee"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Rockies Adventure intro
+    - ID: "b1956471-e248-49ff-b9c8-7f77f678de56"
+      Hint: Content
+      Value: Rockies adventure
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T035231Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20250715T000000Z

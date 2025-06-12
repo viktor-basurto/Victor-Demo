@@ -1,0 +1,53 @@
+﻿---
+ID: "a3e403ca-9e12-47cc-82b1-5ee3ffbed903"
+Parent: "25327d55-9ee5-4bc1-a34f-08660f4d649a"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/tac/events/Home/Events/Hiking/Hiking Pikes Peak
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AFD74670-689A-46C8-BA02-E405F3323E36}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{FD773ABD-C271-4B18-A2E1-DC7F2F05E218}"
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{DDC8486B-CA0B-404B-8043-B5A69036F19D}" alt="" height="355" width="600" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014817Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking Pikes Peak
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: "{1173E469-EAD7-4543-9AC8-09BC2D0F335E}"
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Hiking Pikes Peak
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae7c97d3-4e85-40be-a946-047c203a42c8"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: "The Barr Trail, a challenging 13-mile hike, winds its way up Pikes Peak, offering breathtaking views of Colorado's Rocky Mountains. The trailhead starts at the base of the mountain in Manitou Springs and ascends over 7,400 feet to the summit. The journey is a mix of lush forests, rocky terrain, and alpine tundra, with stunning vistas at every turn."
+    - ID: "b1956471-e248-49ff-b9c8-7f77f678de56"
+      Hint: Content
+      Value: "The Barr Trail, a challenging 13-mile hike, winds its way up Pikes Peak, offering breathtaking views of Colorado's Rocky Mountains. The trailhead starts at the base of the mountain in Manitou Springs and ascends over 7,400 feet to the summit. The journey is a mix of lush forests, rocky terrain, and alpine tundra, with stunning vistas at every turn."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T035139Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20250625T000000Z

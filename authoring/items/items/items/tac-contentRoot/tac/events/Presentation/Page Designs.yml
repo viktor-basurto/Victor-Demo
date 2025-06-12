@@ -1,0 +1,39 @@
+﻿---
+ID: "58d964ff-cef2-48eb-acff-02f0b59b5c12"
+Parent: "33e39a12-7a13-4c03-8463-ed43fa6b3a95"
+Template: "952f04d9-cddf-497b-ab2f-f21170bedf3d"
+Path: /sitecore/content/tac/events/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bB82A723F-4C9C-4F81-B101-41C8469BA339%7d%3d%257BE316A1BA-EEAC-4F8D-AA2F-01E0C4DE116E%257D%26%7b773F93F4-772F-4AEF-AE52-995AA9F83170%7d%3d%257B1AA2B814-E5BD-485A-BB87-12912363CD62%257D%26%7b633A26AD-F805-4C4C-9DF5-68F00BA5E3DB%7d%3d%257B1AA2B814-E5BD-485A-BB87-12912363CD62%257D%26%7b0FA13A7C-80A3-40BF-87C6-C2FC1EA42625%7d%3d%257B1AA2B814-E5BD-485A-BB87-12912363CD62%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T002201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dfa1976-4988-484f-98b0-0ec532e3f152"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T020939Z

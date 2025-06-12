@@ -1,0 +1,37 @@
+﻿---
+ID: "25327d55-9ee5-4bc1-a34f-08660f4d649a"
+Parent: "49fe34d6-c633-4feb-9454-06e31bcb93f7"
+Template: "773f93f4-772f-4aef-ae52-995aa9f83170"
+Path: /sitecore/content/tac/events/Home/Events/Hiking
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0D5E2A24-04EB-45FD-8B2F-3A4CF88BD4C3}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014747Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Hiking
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5985c662-ab8b-4797-aee3-f99c9910b40d"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Hiking intro
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T014747Z

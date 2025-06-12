@@ -1,0 +1,61 @@
+﻿---
+ID: "45427d51-f7cf-40ee-bdb3-a8801c11756e"
+Parent: "9223ecf0-abd8-4bf2-8501-99205ad6a3f8"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/tac/events/Home/Events/Climbing/Climbing the Face of Half Dome
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{547AFB84-D6ED-41E8-9EA9-01FC6214086F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{FD773ABD-C271-4B18-A2E1-DC7F2F05E218}"
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{663D59AC-9192-4D3B-B27A-86186B8CC152}" alt="" height="341" width="600" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014740Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 1
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Climbing the Face of Half Dome
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: "{1173E469-EAD7-4543-9AC8-09BC2D0F335E}"
+    - ID: "7da72924-1813-4335-a6f8-6cdde1fa6560"
+      Hint: RelatedEvents
+      Value: |
+        {A3E403CA-9E12-47CC-82B1-5EE3FFBED903}
+        {5E4C6990-6F45-4D42-B4F1-19466E2FEF98}
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Climbing the Face of Half Dome
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d5d49e0-30bf-456f-8409-40832f6933d9"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: The face of Half Dome in Yosemite National Park rises 5000 feet above the valley floor. Glaciers have cleaved the dome clear in half, leaving an incredible slab of rock that has become the most iconic rock climb in the world. The Adventure Company sponsors this is a grade VI climb and participants must have experience climbing. The tour will be led by our most experienced climbing guide who has extensive experience climbing in Yosemite.
+    - ID: "b1956471-e248-49ff-b9c8-7f77f678de56"
+      Hint: Content
+      Value: The face of Half Dome in Yosemite National Park rises 5000 feet above the valley floor. Glaciers have cleaved the dome clear in half, leaving an incredible slab of rock that has become the most iconic rock climb in the world. The Adventure Company sponsors this is a grade VI climb and participants must have experience climbing. The tour will be led by our most experienced climbing guide who has extensive experience climbing in Yosemite.<br />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T035328Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20250930T000000Z

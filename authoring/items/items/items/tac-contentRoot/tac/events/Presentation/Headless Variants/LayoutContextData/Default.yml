@@ -1,0 +1,39 @@
+﻿---
+ID: "a8a56d5c-9576-4f91-a62b-f3320a204b94"
+Parent: "db1189b3-36a0-4720-b7b0-fe9a2e3dc720"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/tac/events/Presentation/Headless Variants/LayoutContextData/Default
+BranchID: "9e34b40a-4e62-4a5e-9b70-0d9d6a90e12b"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "33f30a9a-84cd-4161-991a-60c601bf340e"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40818AD8-2A6C-4188-B13A-455421C916F5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T045840Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dd4be63-f273-4f36-a506-391c9fb8b43b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\victor.basurto@brookfieldrp.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250612T045840Z

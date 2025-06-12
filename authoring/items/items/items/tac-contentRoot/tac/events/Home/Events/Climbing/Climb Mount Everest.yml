@@ -1,0 +1,61 @@
+﻿---
+ID: "f202d316-9843-4b83-b54d-241a95b39c31"
+Parent: "9223ecf0-abd8-4bf2-8501-99205ad6a3f8"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/tac/events/Home/Events/Climbing/Climb Mount Everest
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DCF5B495-FAF4-4E33-B81D-E2BCED2274B1}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{5D800AFC-6200-4B5A-BBB6-1E33130E2DA9}"
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{A82FE2D9-D28E-46EA-9DB0-B54F4D3C042F}" alt="" height="364" width="600" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241122T014351Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 12
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Climb Mount Everest
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: "{F1CB0C0B-C962-42C3-B80F-F95E51265C1D}"
+    - ID: "7da72924-1813-4335-a6f8-6cdde1fa6560"
+      Hint: RelatedEvents
+      Value: |
+        {A3E403CA-9E12-47CC-82B1-5EE3FFBED903}
+        {5E4C6990-6F45-4D42-B4F1-19466E2FEF98}
+    - ID: "8b3a8046-0446-47d6-9b54-b15ff07ea564"
+      Hint: Title
+      Value: Climb Mount Everest
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fd2f604-55a3-441d-a0f7-22f6fe48a9d2"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: A Journey to the Roof of the World
+    - ID: "b1956471-e248-49ff-b9c8-7f77f678de56"
+      Hint: Content
+      Value: The journey to the summit of Mount Everest is a grueling expedition that pushes climbers to their physical and mental limits. Starting at Everest Base Camp, climbers embark on a series of acclimatization climbs to higher camps, gradually adapting to the thin air and extreme cold. The route is marked by treacherous terrain, including the Khumbu Icefall, a labyrinth of shifting ice and crevasses. As climbers ascend higher, the conditions become increasingly harsh, with biting winds, freezing temperatures, and the constant threat of altitude sickness. Reaching the summit, a feat achieved by only a select few, is a testament to human endurance and the indomitable spirit of adventure.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241122T035324Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20260330T000000Z
